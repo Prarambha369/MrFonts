@@ -61,3 +61,7 @@ This project is licensed under a custom license. See the `LICENSE` file for more
 
 ## Contact
 For any inquiries or feedback, please contact [Email](mailto:i7d5fk4iy@mozmail.com). 💬✉️
+
+## Related
+
+- **[FontsDB](https://github.com/Prarambha369/FontsDB)** — the font database powering MrFonts. It holds the font files + sources (); add new fonts there via pull request.
