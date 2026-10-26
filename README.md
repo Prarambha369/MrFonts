@@ -64,4 +64,4 @@ For any inquiries or feedback, please contact [Email](mailto:i7d5fk4iy@mozmail.c
 
 ## Related
 
-- **[FontsDB](https://github.com/Prarambha369/FontsDB)** — the font database powering MrFonts. It holds the font files + sources (); add new fonts there via pull request.
+- **[FontsDB](https://github.com/Prarambha369/FontsDB)** — the font database powering MrFonts. It holds the font files + sources (`FontSrc/`); add new fonts there via pull request.
